@@ -13,7 +13,7 @@
 **毕业设计所有选题地址：
 [https://github.com/codegitpro/allProject](https://github.com/codegitpro/allProject)**
 
-## 基于Java+Springboot+Vue的宿舍管理系统(源码+数据库)109
+## 基于Java+Springboot+Vue的宿舍管理系统(源码+数据库+8800字论文)109
 
 ## 一、系统介绍
 本系统前后端分离
